@@ -194,7 +194,7 @@ button.button {
   padding: 0;
   width: 20px;
   height: 20px;
-  background-image: image-url('icon-sprite.png');
+  background-image: url('/assets/icon-sprite.png');
   background-repeat: no-repeat;
   vertical-align: top;
   text-indent: 20px;
@@ -264,6 +264,6 @@ button.button {
     -webkit-background-size: 380px 20px;
     -moz-background-size: 380px 20px;
     -o-background-size: 380px 20px;
-    background-image: image-url('icon-sprite@2x.png');
+    background-image: url('/assets/icon-sprite@2x.png');
   }
 }
