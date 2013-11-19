@@ -39,3 +39,7 @@ For usage and examples check Kanso [docs](http://www.kolszewski.com/kanso).
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/mikekreeki/kanso-rails/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
